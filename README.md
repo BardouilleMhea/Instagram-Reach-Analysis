@@ -11,7 +11,8 @@ Companies commonly use social media platforms such as Instagram to market projec
 This project uses instagram data collected from the account of the founder of [Statso](https://statso.io/).
 
 Instagram Reach Analysis will analyze the following measures:
-[1. *Impressions:* Number of impressions in a post (Reach)](https://github.com/BardouilleMhea/Instagram-Reach-Analysis/blob/main/Impressions.ipynb)
+1. [*Impressions:* Number of impressions in a post (Reach](https://github.com/BardouilleMhea/Instagram-Reach-Analysis/blob/main/Impressions.ipynb)
+
 2. *From Home:* Reach from home
 3. *From Hashtags:* Reach from Hashtags
 4. *From Explore:* Reach from Explore
