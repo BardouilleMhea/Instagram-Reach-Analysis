@@ -16,11 +16,11 @@ Instagram Reach Analysis will analyze the following measures:
 3. [*From Hashtags:* Reach from Hashtags](https://github.com/BardouilleMhea/Instagram-Reach-Analysis/blob/main/Hastags.ipynb)
 4. [*From Explore:* Reach from Explore](https://github.com/BardouilleMhea/Instagram-Reach-Analysis/blob/main/Explore.ipynb)
 5. [*From Other:* Reach from other sources](https://github.com/BardouilleMhea/Instagram-Reach-Analysis/blob/main/Other.ipynb)
-6. *Saves:* Number of saves
-7. *Comments:* Number of comments
-8. *Shares:* Number of shares
-9. *Likes:* Number of Likes
-10. *Profile Visits:* Numer of profile visits from the post
+6. [*Saves:* Number of saves](https://github.com/BardouilleMhea/Instagram-Reach-Analysis/blob/main/Saves_Comments_Shares_Likes.ipynb)
+7. [*Comments:* Number of comments](https://github.com/BardouilleMhea/Instagram-Reach-Analysis/blob/main/Saves_Comments_Shares_Likes.ipynb)
+8. [*Shares:* Number of shares](https://github.com/BardouilleMhea/Instagram-Reach-Analysis/blob/main/Saves_Comments_Shares_Likes.ipynb)
+9. [*Likes:* Number of Likes](https://github.com/BardouilleMhea/Instagram-Reach-Analysis/blob/main/Saves_Comments_Shares_Likes.ipynb)
+10. [*Profile Visits:* Numer of profile visits from the post](url)
 11. *Follows:* Number of Follows from the post
 12. *Caption:* Caption of the post
 13. *Hashtags:* Hashtags used in the post
