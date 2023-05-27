@@ -22,7 +22,7 @@ Instagram Reach Analysis will analyze the following measures:
 9. [*Likes:* Number of Likes](https://github.com/BardouilleMhea/Instagram-Reach-Analysis/blob/main/Saves_Comments_Shares_Likes.ipynb)
 10. [*Profile Visits:* Numer of profile visits from the post](url)
 11. [*Follows:* Number of Follows from the post](https://github.com/BardouilleMhea/Instagram-Reach-Analysis/blob/main/Follows.ipynb)
-12. [*Caption:* Caption of the post]()
+12. [*Caption:* Caption of the post](https://github.com/BardouilleMhea/Instagram-Reach-Analysis/blob/main/caption.ipynb)
 13. [*Hashtags:* Hashtags used in the post](https://github.com/BardouilleMhea/Instagram-Reach-Analysis/blob/main/hashtag_count.ipynb)
 
 
