@@ -12,11 +12,10 @@ This project uses instagram data collected from the account of the founder of [S
 
 Instagram Reach Analysis will analyze the following measures:
 1. [*Impressions:* Number of impressions in a post (Reach](https://github.com/BardouilleMhea/Instagram-Reach-Analysis/blob/main/Impressions.ipynb)
-
 2. [*From Home:* Reach from home](https://github.com/BardouilleMhea/Instagram-Reach-Analysis/blob/main/Home.ipynb)
-3. *From Hashtags:* Reach from Hashtags
-4. *From Explore:* Reach from Explore
-5. *From Other:* Reach from other sources
+3. [*From Hashtags:* Reach from Hashtags](https://github.com/BardouilleMhea/Instagram-Reach-Analysis/blob/main/Hastags.ipynb)
+4. [*From Explore:* Reach from Explore](https://github.com/BardouilleMhea/Instagram-Reach-Analysis/blob/main/Explore.ipynb)
+5. [*From Other:* Reach from other sources](https://github.com/BardouilleMhea/Instagram-Reach-Analysis/blob/main/Other.ipynb)
 6. *Saves:* Number of saves
 7. *Comments:* Number of comments
 8. *Shares:* Number of shares
