@@ -21,25 +21,6 @@ ggplot(instagram_data, aes(x = Impressions)) +
   geom_histogram(binwidth = 10000, fill = "steelblue") +
   labs(x = "Impressions", y = "Frequency", title = "Distribution of Impressions")
 
-# Load the necessary library
-library(stringr)
-
-# Create a function to extract words from a string
-extract_words <- function(string) {
-  str_extract_all(string, "\\w+")[[1]]
-}
-
-# Extract words from the caption column
-caption_words <- unlist(lapply(instagram_data$Caption, extract_words))
-
-# Extract words from the hashtags column
-hashtag_words <- unlist(lapply(instagram_data$Hashtags, extract_words))
-
-# Compare the words used in the caption and hashtags
-common_words <- intersect(caption_words, hashtag_words)
-unique_caption_words <- setdiff(caption_words, hashtag_words)
-unique_hashtag_words <- setdiff(hashtag_words, caption_words)
-
 # Calculate reach from different sources
 reach_from_home <- sum(instagram_data$From.Home)
 reach_from_hashtags <- sum(instagram_data$From.Hashtags)
@@ -51,7 +32,6 @@ cat("Reach from Home:", reach_from_home, "\n")
 cat("Reach from Hashtags:", reach_from_hashtags, "\n")
 cat("Reach from Explore:", reach_from_explore, "\n")
 cat("Reach from Other:", reach_from_other, "\n")
-
 
 # Creating a histogram of the distribution of impressions from home
 ggplot(instagram_data, aes(x = From.Home)) +
